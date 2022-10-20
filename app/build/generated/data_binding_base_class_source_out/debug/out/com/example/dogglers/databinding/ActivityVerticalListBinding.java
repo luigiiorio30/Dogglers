@@ -5,8 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
-import android.widget.ImageView;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.RecyclerView;
@@ -22,19 +20,11 @@ public final class ActivityVerticalListBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final ImageView itemImage;
-
-  @NonNull
-  public final TextView itemTitle;
-
-  @NonNull
   public final RecyclerView verticalRecyclerView;
 
-  private ActivityVerticalListBinding(@NonNull FrameLayout rootView, @NonNull ImageView itemImage,
-      @NonNull TextView itemTitle, @NonNull RecyclerView verticalRecyclerView) {
+  private ActivityVerticalListBinding(@NonNull FrameLayout rootView,
+      @NonNull RecyclerView verticalRecyclerView) {
     this.rootView = rootView;
-    this.itemImage = itemImage;
-    this.itemTitle = itemTitle;
     this.verticalRecyclerView = verticalRecyclerView;
   }
 
@@ -65,26 +55,13 @@ public final class ActivityVerticalListBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.item_image;
-      ImageView itemImage = ViewBindings.findChildViewById(rootView, id);
-      if (itemImage == null) {
-        break missingId;
-      }
-
-      id = R.id.item_title;
-      TextView itemTitle = ViewBindings.findChildViewById(rootView, id);
-      if (itemTitle == null) {
-        break missingId;
-      }
-
       id = R.id.vertical_recycler_view;
       RecyclerView verticalRecyclerView = ViewBindings.findChildViewById(rootView, id);
       if (verticalRecyclerView == null) {
         break missingId;
       }
 
-      return new ActivityVerticalListBinding((FrameLayout) rootView, itemImage, itemTitle,
-          verticalRecyclerView);
+      return new ActivityVerticalListBinding((FrameLayout) rootView, verticalRecyclerView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

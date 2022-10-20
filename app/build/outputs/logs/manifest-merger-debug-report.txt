@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\iorio\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:17:1-40:12
 MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\abaac15efeaacf7c053ea392bb1facb6\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
@@ -60,25 +60,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\iorio\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\iorio\.gradle\caches\transforms-3\8006f846be8659bfe4446d7ecaf90056\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\iorio\.gradle\caches\transforms-3\4096df0bf556527fd3e7cfc9baec4e80\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\iorio\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
 	package
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:18:5-35
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:18:5-35
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:1-52:12
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:20:5-50:19
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:20:5-50:19
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:27:5-38:19
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:27:5-38:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\iorio\.gradle\caches\transforms-3\524e29a915b36a842d68532d8af20ed8\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
@@ -100,55 +100,55 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\iorio\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\iorio\.gradle\caches\transforms-3\bc8e6d89ec5f01c9b383224d26ccbb88\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:23:9-41
 	android:roundIcon
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:24:9-54
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:24:9-54
 	android:icon
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:22:9-43
 	android:allowBackup
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:26:9-46
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:26:9-46
 activity#com.example.dogglers.VerticalListActivity
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:27:9-31:20
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:27:9-31:20
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:27:19-55
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:27:19-55
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:28:13-30:49
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:28:13-30:49
 	android:value
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:30:17-46
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:30:17-46
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:29:17-63
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:29:17-63
 activity#com.example.dogglers.HorizontalListActivity
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:32:9-36:20
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:32:9-36:20
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:32:19-57
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:32:19-57
 activity#com.example.dogglers.GridListActivity
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:37:9-41:20
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:37:9-41:20
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:37:19-51
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:37:19-51
 activity#com.example.dogglers.MainActivity
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:42:9-49:20
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:42:9-49:20
 	android:exported
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:42:19-47
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:42:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:13-48:29
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:17-69
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:25-66
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:47:17-77
+ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:47:27-74
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:47:27-74
 uses-sdk
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\iorio\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\iorio\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:20:5-23:54
@@ -261,18 +261,18 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\iorio\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\iorio\.gradle\caches\transforms-3\4096df0bf556527fd3e7cfc9baec4e80\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\iorio\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\iorio\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.REORDER_TASKS
 ADDED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:5-72
 MERGED from [androidx.test:core:1.4.0] C:\Users\iorio\.gradle\caches\transforms-3\5088ca7dabc86f4e562a79d9aff85233\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72

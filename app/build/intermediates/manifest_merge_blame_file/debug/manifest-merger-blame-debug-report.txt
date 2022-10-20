@@ -21,77 +21,77 @@
 21
 22    <uses-sdk
 23        android:minSdkVersion="21"
-23-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+23-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="32" />
-24-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
+24-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml
 25
 26    <uses-permission android:name="android.permission.REORDER_TASKS" />
 26-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:5-72
 26-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:25:22-69
 27
 28    <application
-28-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:20:5-50:19
+28-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:20:5-50:19
 29        android:allowBackup="true"
-29-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:21:9-35
+29-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:21:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 30-->[androidx.core:core:1.7.0] C:\Users\iorio\.gradle\caches\transforms-3\bc8e6d89ec5f01c9b383224d26ccbb88\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 31        android:debuggable="true"
 32        android:icon="@mipmap/ic_launcher"
-32-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:22:9-43
+32-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:22:9-43
 33        android:label="@string/app_name"
-33-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:23:9-41
+33-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:23:9-41
 34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:24:9-54
+34-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:24:9-54
 35        android:supportsRtl="true"
-35-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:25:9-35
+35-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:25:9-35
 36        android:testOnly="true"
 37        android:theme="@style/Theme.Dogglers" >
-37-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:26:9-46
+37-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:26:9-46
 38        <activity android:name="com.example.dogglers.VerticalListActivity" >
-38-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:27:9-31:20
-38-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:27:19-55
+38-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:27:9-31:20
+38-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:27:19-55
 39            <meta-data
-39-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:28:13-30:49
+39-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:28:13-30:49
 40                android:name="android.support.PARENT_ACTIVITY"
-40-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:29:17-63
+40-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:29:17-63
 41                android:value=".MainActivity" />
-41-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:30:17-46
+41-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:30:17-46
 42        </activity>
 43        <activity android:name="com.example.dogglers.HorizontalListActivity" >
-43-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:32:9-36:20
-43-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:32:19-57
+43-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:32:9-36:20
+43-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:32:19-57
 44            <meta-data
-44-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:28:13-30:49
+44-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:28:13-30:49
 45                android:name="android.support.PARENT_ACTIVITY"
-45-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:29:17-63
+45-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:29:17-63
 46                android:value=".MainActivity" />
-46-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:30:17-46
+46-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:30:17-46
 47        </activity>
 48        <activity android:name="com.example.dogglers.GridListActivity" >
-48-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:37:9-41:20
-48-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:37:19-51
+48-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:37:9-41:20
+48-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:37:19-51
 49            <meta-data
-49-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:28:13-30:49
+49-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:28:13-30:49
 50                android:name="android.support.PARENT_ACTIVITY"
-50-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:29:17-63
+50-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:29:17-63
 51                android:value=".MainActivity" />
-51-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:30:17-46
+51-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:30:17-46
 52        </activity>
 53        <activity
-53-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:42:9-49:20
+53-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:42:9-49:20
 54            android:name="com.example.dogglers.MainActivity"
-54-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:42:19-47
+54-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:42:19-47
 55            android:exported="true" >
-55-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:43:13-36
+55-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:43:13-36
 56            <intent-filter>
-56-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:13-48:29
+56-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:44:13-48:29
 57                <action android:name="android.intent.action.MAIN" />
-57-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:17-69
-57-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:25-66
+57-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
+57-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
 58
 59                <category android:name="android.intent.category.LAUNCHER" />
-59-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:47:17-77
-59-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:47:27-74
+59-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:47:17-77
+59-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:47:27-74
 60            </intent-filter>
 61        </activity>
 62        <activity
@@ -109,8 +109,8 @@
 68            <intent-filter>
 68-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 69                <action android:name="android.intent.action.MAIN" />
-69-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:17-69
-69-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:25-66
+69-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
+69-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
 70            </intent-filter>
 71        </activity>
 72        <activity
@@ -124,8 +124,8 @@
 76            <intent-filter>
 76-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 77                <action android:name="android.intent.action.MAIN" />
-77-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:17-69
-77-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:25-66
+77-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
+77-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
 78            </intent-filter>
 79        </activity>
 80        <activity
@@ -139,8 +139,8 @@
 84            <intent-filter>
 84-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 85                <action android:name="android.intent.action.MAIN" />
-85-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:17-69
-85-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:25-66
+85-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
+85-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
 86            </intent-filter>
 87        </activity>
 88        <activity
@@ -154,8 +154,8 @@
 92            <intent-filter>
 92-->[androidx.fragment:fragment-testing:1.4.1] C:\Users\iorio\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:34:13-36:29
 93                <action android:name="android.intent.action.MAIN" />
-93-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:17-69
-93-->C:\Users\iorio\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:45:25-66
+93-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
+93-->C:\Users\iorio\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
 94            </intent-filter>
 95        </activity>
 96
